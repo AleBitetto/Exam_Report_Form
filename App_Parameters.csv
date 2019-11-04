@@ -1,0 +1,32 @@
+Question_reference,Question_label,Correct_Answer,Exam_A,Exam_B,Exam_C
+1,Error Decomp,3,1,6,8
+2,variance-bias trade-off,4,2,3,4
+3,linear vs poly,1,3,9,10
+4,regress assumption,1,4,5,30
+5,regress acccuracy,3,5,7,5
+6,Leave One Out,4,6,8,6
+7,python dict,2,7,2,17
+8,AIC BIC,2,8,11,9
+9,multicollinearity,4,9,12,11
+10,minim problem,2,10,13,1
+11,classif measure,1,11,14,12
+12,ridge coef effect,2,12,15,13
+13,hierarchy principle,1,13,22,15
+14,interaction graph,1,14,16,16
+15,avoid bias ridge lasso,3,15,17,7
+16,MSE decomp,1,16,18,21
+17,binary target,3,17,19,18
+18,ridge estimation,2,18,1,28
+19,box plot,1,19,21,19
+20,python arange,2,20,4,20
+21,regres results table 1,3,21,23,23
+22,regres results table 2,3,22,24,24
+23,python range,2,23,25,14
+24,ridge MSE plot,4,24,26,25
+25,python slice,3,25,28,26
+26,python alias,2,26,29,3
+27,python for loop,2,27,20,27
+28,python pandas,3,28,30,29
+29,ROC,1,29,10,22
+30,logistic regr,2,30,27,2
+31,Bonus,3,31,31,31
